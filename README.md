@@ -45,7 +45,7 @@ This dataset contains computed barrier values for ionic movement in two-dimensio
 
 ## 📎 Citation
 
-If using this dataset, please cite the associated article (in preparation/submitted to *Computational Materials Science*) and acknowledge the C2DB project.
+If using this dataset, please cite the associated article (in preparation/submitted to *The European Physical Journal B*) and acknowledge the C2DB project.
 
 ---
 
